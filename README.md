@@ -2,8 +2,8 @@
 dersi tekrar ediyorum
 
 
-istefdigin kaara aciklama girilir
 
-yenieden
+
+
 
 
