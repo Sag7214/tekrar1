@@ -6,4 +6,7 @@ istefdigin kaara aciklama girilir
 
 yenieden
 
+aaa
+nbbb
+ccc
 
